@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "540347881975",
-    "project_id": "jokerbox-77635",
-    "storage_bucket": "jokerbox-77635.appspot.com"
+    "project_number": "669573591265",
+    "project_id": "jokerbox-e1345",
+    "storage_bucket": "jokerbox-e1345.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:540347881975:android:c4c59978eb0891d6aaf6f2",
+        "mobilesdk_app_id": "1:669573591265:android:47e8be9bf97304b5ad47a0",
         "android_client_info": {
           "package_name": "es.jokerbox"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDiU9et0MrpkowzHN0GZ-zaOqejqjYeuwA"
+          "current_key": "AIzaSyAbVdho7GOVtmYYTuSxx9or3eWG229O9mw"
         }
       ],
       "services": {

@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">jokerbox</string>
+    <string name="appName">jokerbox</string>
+    <string name="registerTitle">Create new account</string>
+
+    <!-- HINTS -->
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintConfirmPassword">Confirm Password</string>
+
+    <!-- BUTTONS -->
+    <string name="btRegister">Register</string>
+    <string name="btAlreadyHaveAccount">Already have account? Login</string>
 </resources>
