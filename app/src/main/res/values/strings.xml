@@ -1,6 +1,7 @@
 <resources>
     <string name="appName">jokerbox</string>
     <string name="registerTitle">Create new account</string>
+    <string name="loginTitle">Welcome back!</string>
 
     <!-- HINTS -->
     <string name="hintEmail">Email</string>
@@ -8,6 +9,8 @@
     <string name="hintConfirmPassword">Confirm Password</string>
 
     <!-- BUTTONS -->
+    <string name="btLogin">Login</string>
     <string name="btRegister">Register</string>
     <string name="btAlreadyHaveAccount">Already have account? Login</string>
+    <string name="btDontHaveAccount">Don\'t have account? Register</string>
 </resources>
