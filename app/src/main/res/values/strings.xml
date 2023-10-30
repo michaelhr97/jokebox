@@ -3,6 +3,9 @@
     <string name="registerTitle">Create new account</string>
     <string name="loginTitle">Welcome back!</string>
 
+    <!-- TAGS -->
+    <string name="tagRegister">REGISTER</string>
+
     <!-- HINTS -->
     <string name="hintEmail">Email</string>
     <string name="hintPassword">Password</string>
@@ -13,4 +16,8 @@
     <string name="btRegister">Register</string>
     <string name="btAlreadyHaveAccount">Already have account? Login</string>
     <string name="btDontHaveAccount">Don\'t have account? Register</string>
+
+    <!-- ERRORS -->
+    <string name="inputEmpty">This field is required</string>
+    <string name="passwordMustBeEquals">Passwords must be equal</string>
 </resources>
