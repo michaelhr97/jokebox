@@ -11,7 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class RegisterActivity extends AppCompatActivity implements View.OnClickListener {
-    private static final String TAG = String.valueOf(R.string.tagRegister);
+    private static final String TAG = "REGISTER";
     private FirebaseAuth auth;
 
     private EditText etEmail;

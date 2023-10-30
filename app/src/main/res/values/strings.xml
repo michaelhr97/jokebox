@@ -3,9 +3,6 @@
     <string name="registerTitle">Create new account</string>
     <string name="loginTitle">Welcome back!</string>
 
-    <!-- TAGS -->
-    <string name="tagRegister">REGISTER</string>
-
     <!-- HINTS -->
     <string name="hintEmail">Email</string>
     <string name="hintPassword">Password</string>
